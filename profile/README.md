@@ -5,7 +5,7 @@ A space for students to learn and collaborate as they solve problems for their c
 
 ## How to join the Organisation 
 
-Joining @GDSC-TKNP is easy, Click [HERE](https://github.com/GDSC-TKNP/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Invite+me+to+GDSC-TKNP+GitHub+Community+Organization) to proceed. `You'll recieve an email`
+Joining @GDSC-TKNP is easy, Click [HERE](https://github.com/gdsc-tknp/support/issues/new?assignees=&labels=Invitation+to+the+community&template=invitation.yml&title=Invite+me+to+gdsc-tknp+GitHub+Community+Organization) to proceed. `You'll recieve an email`
 <!--
 
 **Here are some ideas to get you started:**
